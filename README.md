@@ -109,7 +109,7 @@ mental-health-chatbot/ │ ├── train.csv
 🛠 Tech Stack
 Python 3.10+
 
-1.PyTorch 2.Transformers (HuggingFace) J.upyter Notebooks 4.Pandas 5.TensorBoard
+1.PyTorch 2.Transformers (HuggingFace) J.upyter Notebooks 4.Pandas 
 
 💭 Summary
 This project showcases how transformer models like GPT-2 can be adapted into task-specific applications like mental health chatbots. It combines modern NLP techniques, transfer learning, and responsible AI use-cases to help demonstrate the power of fine-tuned LLMs.
